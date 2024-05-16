@@ -1,0 +1,11 @@
+<u> Keyboard shortcuts: <u>
+
+- **U**: force quit/exit/return to main menu 
+
+- **P**: pause 
+
+- **O**: skip a trial 
+
+- **I**: skip phase of a trial 
+
+ 
