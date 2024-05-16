@@ -25,18 +25,18 @@ The output of SST are an overall CSV file for the session (A) and individual CSV
 ![figures_20240509-05](https://github.com/Spatial-Similarity-Task/SST/assets/169395756/592d9cf8-962a-42bc-9eaf-0ce30ad24928)
 
 Columns in A include: 
-- Trial_num: Trial number
-- Target_arm, lure_arm: Arm combination for each trial- target and lure arms
-- Subject_response: Subject response for each trial (1=correct, 0=incorrect)
-- sample_phase_duration: Time from when start box door opens to when subject returns to start box in sample phase
-- sample_phase_choice_duration: Time from when start door opens to when subject makes choice in sample phase; sample phase reaction time
-- test_phase_duration: Time from when start door opens to when subject returns to start box in test phase
-- test_phase_choice_duration: Time from when start door opens to when subject makes choice in test phase; test phase reaction time
+- **Trial_num**: Trial number
+- **Target_arm, lure_arm**: Arm combination for each trial- target and lure arms
+- **Subject_response**: Subject response for each trial (1=correct, 0=incorrect)
+- **sample_phase_duration**: Time from when start box door opens to when subject returns to start box in sample phase
+- **sample_phase_choice_duration**: Time from when start door opens to when subject makes choice in sample phase; sample phase reaction time
+- **test_phase_duration**: Time from when start door opens to when subject returns to start box in test phase
+- **test_phase_choice_duration**: Time from when start door opens to when subject makes choice in test phase; test phase reaction time
 
 Columns in B include: 
-- time: Time in seconds
-- posX: The subject's movement along the x-axis
-- posY: The subject's movement along the y-axis
-- event: Event in task (e.g. Whether prompt is showing or if subject is performing the task)
-- phase: The phase of a trial (Sample, Test)
-- Input: Logs Xbox controller inputs and button presses 
+- **time**: Time in seconds
+- **posX**: The subject's movement along the x-axis
+- **posY**: The subject's movement along the y-axis
+- **event**: Event in task (e.g. Whether prompt is showing or if subject is performing the task)
+- **phase**: The phase of a trial (Sample, Test)
+- **Input**: Logs Xbox controller inputs and button presses 
