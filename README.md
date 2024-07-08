@@ -9,7 +9,7 @@ The SST is a behavioral task designed to tax pattern separation in the visuospat
 SST is written in C#, and do not require that Unity be install on your computer to run.
 
 ## Install 
-You can clone the repository or download the SST.zip file. 
+You can clone the repository or download the SST.zip file here (https://ucsdcloud-my.sharepoint.com/:u:/g/personal/mborzell_ucsd_edu/EY_sue4yOuxNkvU-cZ9fKNMBpe5Apq9iGfa-1pZhIOZ9iQ?e=NFnai7). 
 
 
 
